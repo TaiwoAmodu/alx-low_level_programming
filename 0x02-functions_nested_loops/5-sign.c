@@ -25,5 +25,6 @@ int print_sign(int n)
 		return (-1);
 	}
 
-	return (0); /* Optional return statement in case n doesn't fit any condition */
+	return (0); /* Optional return statement in case n doesn't fit
+               any condition */
 }
